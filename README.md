@@ -11,13 +11,21 @@ This starter template includes:
 ## Installation:
 
 Clone the repo:  
-`git clone https://github.com/UralDev/vite-starter.git`
+```
+git clone https://github.com/UralDev/vite-starter.git
+```
 
 Open the project folder:  
-`cd vite-starter`
+```
+cd vite-starter
+```
 
 Install packages and dependencies:  
-`npm install`
+```
+npm install
+```
 
 Start a local dev server at http://localhost:3000/:  
-`npm run dev`
+```
+npm run dev
+```
